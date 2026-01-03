@@ -1,11 +1,11 @@
 # Car-Inventory-Application
-A mock-car inventory app created using Python and MySQL. 
+A mock-car inventory app created using Python, MySQL, and HTML. 
 --------------------------------
 Car Inventory Management System by Hassan Soufan
 --------------------------------
 
 A 3-tier application built with Flask (GUI), Python (Business Logic Layer & Data Access Layer),
-and MySQL (Database) for managing a car dealership’s inventory, transactions, staff, and reports.
+and MySQL (Database), and HTML (Website UI) for managing a car dealership’s inventory, transactions, staff, and reports.
 
 -------------------------------------------------
 Project Structure
